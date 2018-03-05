@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# ALL csvs
+*.csv
+
+# Mac Thing
+.DS_Store
